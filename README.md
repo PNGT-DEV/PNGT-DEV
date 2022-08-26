@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PNGT-DEV
 - 👀 I’m interested in developing fivem and minecraft servers.
-- 🌱 I’m currently learning Lua and Python 3.
+- 🌱 I’m currently learning Lua and Java.
 - 📫 How to reach me. Simpely open discord and add me @PNGT#0803
 
 <!---
